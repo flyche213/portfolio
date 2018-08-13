@@ -1,0 +1,38 @@
+<h1> Welcome
+</h1>
+
+<header>
+  <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+ <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">?
+</header>
+
+<div class="pageOne text-center" id="p1">
+  <ul class="nav nav-pills">
+    <li>
+      <a href="#p1">Akib Hossain</a>
+    </li>
+    <li>
+      <a href="#p2">About Me</a>
+    </li>
+    <li>
+      <a href="#p4">Contact</a>
+    </li>
+  </ul>
+
+  <div class="block text-center">
+  <h1>Akib Hossain
+</h1>
+  <h2>Software Engineer</h2>
+  </div>
+    <div class="btnList text-center">
+    <a class="btn btn-default"><i class="fa fa-twitter fa-lg" id="twitterIcon" aria-hidden="true"></i> twitter</a>
+    <a class="btn btn-default" href="#"><i class="fa fa-github fa-lg" id="githubIcon" aria-hidden="true"></i>
+    Git Hub</a>
+     <a class="btn btn-default" href="#"><i class="fa fa-linkedin fa-lg" id="linkedinIcon" aria-hidden="true"></i>
+    LinkedIn</a>
+     <a class="btn btn-default" href="#"><i class="fa fa-youtube fa-lg" id="youtubeIcon" aria-hidden="true"></i>
+   Youtube</a>
+     <a class="btn btn-default" href="#"><i class="fa fa-facebook fa-lg" id="facebookIcon" aria-hidden="true"></i>
+   Facebook</a>
+  </div>
+</div>
